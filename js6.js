@@ -27,3 +27,15 @@ var myArray = [18,64,99];
 myArray[0] = 45;
 myArray[1] = 64;
 myArray[2] = 99;
+
+//Access Multi-Dimensional Arrays With Indexess
+
+// Setup
+var myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
+
+// Only change code below this line.
+var myData = myArray[0][0];
+
+myData = myArray[2][1];
+console.log(myData)
+
