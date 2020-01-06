@@ -38,3 +38,13 @@ var myStr = '<a href="http://www.example.com" target="_blank">Link</a> ';
 
 var myStr; // Change this line
 myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+//
+// Example
+var ourStr = "I come first. " + "I come second.";
+
+// Only change code below this line
+
+var myStr;
+myStr = "This is the start. " + "This is the end.";
+
