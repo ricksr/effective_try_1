@@ -70,4 +70,23 @@ var ourStr = "Hello, our name is " + ourName + ", how are you?";
 var myName = "ricksr";
 var myStr = "My name is " + myName + " and I am well!";
 
+//
+
+// Example
+var firstNameLength = 0;
+var firstName = "Ada";
+
+firstNameLength = firstName.length;
+
+// Setup
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+// Only change code below this line.
+
+lastNameLength = "";
+lastNameLength += lastName;
+
+lastNameLength = lastName.length;
+
 
