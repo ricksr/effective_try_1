@@ -15,3 +15,15 @@ var myArray = [ourArray, "hi"];
 console.log(myArray);
 
 
+// array with index
+// Example
+var ourArray = [18,64,99];
+ourArray[1] = 45; // ourArray now equals [18,45,99].
+
+// Setup
+var myArray = [18,64,99];
+
+// Only change code below this line.
+myArray[0] = 45;
+myArray[1] = 64;
+myArray[2] = 99;
