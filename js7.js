@@ -89,3 +89,21 @@ function myOutfit() {
 
 myOutfit();
 
+// return-a-value-from-a-function-with-return
+// Example
+function minusSeven(num) {
+    return num - 7;
+  }
+  
+  // Only change code below this line
+  
+  
+  
+  console.log(minusSeven(10));
+  
+  function timesFive(num) {
+    return num * 5;
+  }
+  console.log ( timesFive(5) );
+  console.log ( timesFive(2) );
+  console.log ( timesFive(0) );
