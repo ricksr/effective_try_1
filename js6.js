@@ -67,7 +67,7 @@ var myArray = [["John", 23], ["dog", 3]];
 // Only change code below this line.
 var removedFromMyArray = myArray.shift();
 
-//
+//Manipulate Arrays With unshift()
 
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
@@ -83,6 +83,19 @@ myArray.shift();
 //myArray.shift();
 myArray.unshift(["Paul", 35]);
 console.log(myArray);
+
+//Shopping List
+
+
+var myList = [];
+var arr = ["Chocolate Bar", 15];
+myList.push(arr);
+myList.push(arr);
+myList.push(arr);
+myList.push(arr);
+myList.push(arr);
+console.log(myList);
+
 
 
 
