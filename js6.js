@@ -86,7 +86,6 @@ console.log(myArray);
 
 //Shopping List
 
-
 var myList = [];
 var arr = ["Chocolate Bar", 15];
 myList.push(arr);
