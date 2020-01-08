@@ -4,6 +4,7 @@ function functionName() {
     console.log("Hello World");
   }
 
+
 // write resuable functions with JS
 
 // Example
